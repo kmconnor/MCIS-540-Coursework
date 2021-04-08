@@ -1,4 +1,4 @@
 # MCIS540_Connor
-Python scripts and Jupyter Notebooks for MCIS 540 - Programming for Data Science
+Jupyter Notebooks for MCIS 540 - Programming for Data Science
 
-This repository will contain the homework assignments and final project from my Programming for Data Science course.
+I am learning Python in this course, which is structured into eight modules. Within each module are practice exercises and homework assignments. The final project will be found in the final module.
